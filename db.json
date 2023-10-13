@@ -1,0 +1,40 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Mr. Cute",
+      "image": "images/_Puppy Love Chronicles_ 20 Sweet Pooches to Adore_ dog aesthetic dog painting really cute puppies.jpeg",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "name": "Mx. Monkey",
+      "image": "images/Chimp Chic_ “Planet of the Apes” Ringleader Caesar Models High-End Menswear.jpeg",
+      "votes": 0
+    },
+    {
+      "id": 3,
+      "name": "Ms. Zebra",
+      "image": "images/Kruger National Park - South Africa.jpeg",
+      "votes": 0
+    },
+    {
+      "id": 4,
+      "name": "Dr. Lion",
+      "image": "images/_.jpeg",
+      "votes": 0
+    },
+    {
+      "id": 5,
+      "name": "Mme. Panda",
+      "image": "images/21 Reasons Pandas Are The Absolute Best.jpeg",
+      "votes": 0
+    },
+    {
+      "id": 6,
+      "name": "Cat",
+      "image": "images/- ꒰ °𝕮𝖆𝖙 ꒱.jpeg",
+      "votes": 1
+    }
+  ]
+}

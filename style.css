@@ -1,0 +1,50 @@
+
+body{
+    background-color: wheat;
+}
+
+
+h1 {
+    text-align: center;
+    border: 5px;
+    border-radius: 5px;
+    border-color: black;
+}
+
+.fold{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+#animal-list {
+    list-style: circle;
+    border: 5px;
+    border-radius: 5px;
+    max-width: 100rem;
+    height: 50rem;
+    width: 45%;
+    
+}
+
+#animal-list li:hover {
+    text-decoration: solid;
+}
+
+#animal-list li {
+    margin: 100px;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+#animal-details {
+    text-align: center;
+    font-weight: bold;
+    width: 45%;
+    height: 50rem;
+}
+
+.image{
+    border: 5px;
+    border-radius: 5px;
+}
